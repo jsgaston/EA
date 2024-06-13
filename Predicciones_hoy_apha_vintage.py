@@ -11,7 +11,7 @@ from keras.callbacks import EarlyStopping
 from datetime import datetime, timedelta
 
 # Alpha Vantage API parameters
-api_key = 'RJ63LXE88WCP3UP8' #'51A81HVDB896BAYK'
+api_key = 
 
 symbol = 'GBPEUR'
 interval = 'daily'
