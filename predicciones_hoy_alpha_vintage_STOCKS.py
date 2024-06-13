@@ -12,8 +12,8 @@ from datetime import datetime, timedelta
 from alpha_vantage.timeseries import TimeSeries
 
 # Alpha Vantage API parameters
-api_key = 'RJ63LXE88WCP3UP8' #'51A81HVDB896BAYK'
-symbol = 'MSFT'#'EWP'#'MSFT'  # Stock symbol, e.g., Apple Inc.
+api_key = 
+symbol = 'MSFT'#'EWP'  # Stock symbol, e.g., Apple Inc.
 interval = 'daily'
 outputsize = 'full'
 
